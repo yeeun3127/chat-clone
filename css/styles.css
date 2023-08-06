@@ -4,7 +4,7 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
-
+@import "components/no-mobile.css";
 /*Screens*/
 @import "screens/login.css";
 
